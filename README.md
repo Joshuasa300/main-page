@@ -6,5 +6,7 @@
 - <b>[Linkedin](www.linkedin.com/in/joshuaasobitan)</b>
 - <b>[Python projects](https://github.com/Joshuasa300/Python-projects)</b>
 - <b>[Google reviews](https://github.com/Joshuasa300/Google-reviews)</b>
-- <b>[Google business page](https://maps.app.goo.gl/t6W4oTUpzHCAqWtC6)</b>
+- <b>[Google business page](https://maps.app.goo.gl/t6W4oTUpzHCAqWtC6)</b
+- <b>[SAST scanner project](https://maps.app.goo.gl/t6W4oTUpzHCAqWtC6)</b>
+
 
