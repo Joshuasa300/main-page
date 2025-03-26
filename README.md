@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="www.linkedin.com/in/joshuaasobitan"> Aspiring Cybersecurity Professional</a>, <a href="https://rapidrepairsldn.com/">Owner</a> </h1>
+<h1>Hi, I'm Josh! <br/><a href="www.linkedin.com/in/joshuaasobitan"> Cybersecurity Professional</a>, <a href="https://rapidrepairsldn.com/">Owner</a> </h1>
 
 <h2>👨‍💻 Links:</h2>
 
