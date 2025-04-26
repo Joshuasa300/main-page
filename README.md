@@ -7,8 +7,8 @@
 - <b>[Python projects](https://github.com/Joshuasa300/Python-projects)</b>
 - <b>[Google reviews](https://github.com/Joshuasa300/Google-reviews)</b>
 - <b>[Google business page](https://maps.app.goo.gl/t6W4oTUpzHCAqWtC6)</b>
-- <b>[DevSecOps project](https://github.com/Joshuasa300/Dev-SecOps-project.git)</b>
-- <b>[Nessus scan project](https://github.com/Joshuasa300/Nessus-scan)</b>
+- <b>[Static Application testing](https://github.com/Joshuasa300/Dev-SecOps-project.git)</b>
+- <b>[Nessus vulnerability scan ](https://github.com/Joshuasa300/Nessus-scan)</b>
 
 
 
