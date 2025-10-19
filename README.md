@@ -9,6 +9,7 @@
 - <b>[Google business page](https://maps.app.goo.gl/t6W4oTUpzHCAqWtC6)</b>
 - <b>[Static Application testing](https://github.com/Joshuasa300/Dev-SecOps-project.git)</b>
 - <b>[Nessus vulnerability scan ](https://github.com/Joshuasa300/Nessus-scan)</b>
+- <b>[Contract Clarity](https://github.com/Joshuasa300/ContractClarity)</b>
 
 
 
